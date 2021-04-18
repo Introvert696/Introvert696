@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Introvert696
-- 👀 I'm interested in making games, writing utilities, and making cool programs.
-- 🌱 I’m currently learning unity, and programming languages c#, JS, python
+- 👀 I'm interested in making website, writing utilities, and making cool programs.
+- 🌱 I’m currently learning php, and programming languages c#, JS, python
 - 💞️ I'm looking to collaborate on Google or Yandex or other game company
 - 📫 How to reach me introvert696@yandex.ru, tg: @vhs_malchik
 
