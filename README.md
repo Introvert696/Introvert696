@@ -4,7 +4,7 @@
 - ⬜️ Иван. 
 - ⬛️ 20 лет.
 - ⬜️ Занимаюсь веб-разработкой. 
-- ⬛️ Основной стек - LAMP, vue js, c#, Laravel
+- ⬛️ Основной стек - LAMP, vue js, c#, Laravel, Python
 - ⬜️ Связь со мной - introvert696@yandex.ru
 
 <!---
