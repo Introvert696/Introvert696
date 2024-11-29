@@ -2,7 +2,7 @@
 ( ◉o◉)⊃━☆  Добро пожаловать!
 --------
 - ⬜️ Занимаюсь веб-разработкой. 
-- ⬛️ Основной стек - LAMP, vue js, c#, Laravel, Python
+- ⬛️ Основной стек - LAMP, vue js, c#, Laravel, Python, HTML CSS JS
 - ⬜️ Связь со мной - introvert696@yandex.ru
 
 <!---
