@@ -1,9 +1,9 @@
 
-( ◉o◉)⊃━☆  Добро пожаловать!
+О мне
 --------
-- ⬜️ Занимаюсь веб-разработкой. 
-- ⬛️ Основной стек - LAMP, vue js, c#, Laravel, Python, HTML CSS JS
-- ⬜️ Связь со мной - introvert696@yandex.ru
+- Занимаюсь веб-разработкой. 
+- Основной стек - LAMP, vue js, c#, Laravel, Python, HTML CSS JS
+- Связь со мной - introvert696@yandex.ru
 
 <!---
 Introvert696/Introvert696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
