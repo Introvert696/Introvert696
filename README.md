@@ -6,7 +6,7 @@
 ### 🔧 Мой стек технологий:
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
-- **Backend**: PHP (Laravel), Python
+- **Backend**: PHP (Laravel, Symfony), Python
 - **Databases**: MySQL, MSSQL
 - **Прочее**: Git, REST API, LAMP, C#
 
