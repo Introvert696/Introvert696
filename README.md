@@ -18,7 +18,6 @@
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------ |
 | [MinimalSoc](https://github.com/Introvert696/minimal-soc-frontend-new)       | Социальная сеть с использованием Vue.js на фронтенде и PHP на бэкенде. | Vue.js, PHP        |
 | [Anon Chat Bot](https://github.com/Introvert696/anon-chat-tg-bot)            | Телеграм-бот для анонимного общения.                                   | Python, Telebot    |
-| [Advokat Collegie](https://github.com/Introvert696/advokat-collegie)         | Сайт для коллегии адвокатов.                                           | HTML, CSS, PHP     |
 | [ChatGPT Telegram Bot](https://github.com/Introvert696/chatgpt-telegram-bot) | Телеграм-бот для общения с ChatGPT через API, с админкой               | Python, OpenAI API |
 
 ---
