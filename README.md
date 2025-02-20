@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=elasticcloud)
 
 ### Фреймворки:
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
@@ -29,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-### Инструменты:
+### прочее:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
