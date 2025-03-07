@@ -1,41 +1,34 @@
 
-# 🌟 Добро пожаловать на мой GitHub-профиль!
+# Добро пожаловать
+<img  src="https://media1.tenor.com/m/asJFBWDay04AAAAd/anime-aesthetic.gif" width="100%" />  </img>    
 
-Привет! Меня зовут **Иван**, и я — PHP Backend Developer.
-
+Привет! Меня зовут **Иван**, я — PHP Backend Developer.
 ## О себе:
-- 👨‍💻 Я работаю в IT-компании и увлечен разработкой backend-решений.
-- 🚀 В данный момент изучаю **Symfony**, **Docker** и другие смежные технологии.
-- 😴 В свободное время люблю учить что-то новое и просто хорошо высыпаться.
+- Работаю в IT-компании.
+- В данный момент работаю с **Symfony**, **Docker** и другими технологиями.
+- В свободное время изучаю новые оттачиваю мастерство.
+## Языки программирования:
 
-Если вам интересно сотрудничать или у вас есть вопросы, вы можете связаться со мной по email: [introvert696@yandex.ru](mailto:introvert696@yandex.ru).
-
----
-
-## 🛠️ Технологии и инструменты:
-
-### Языки программирования:
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=elasticcloud)
-
-### Фреймворки:
-![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs)
-
-### Базы данных:
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
-### прочее:
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+**PHP 8+** - Основа  
+**Python** - Мини утилиты, автоматизация, парсинг  
+**JavaScript** - Веб     
+**C#** - Десктоп, игры          
+## Фреймворки:
+**Symfony 6.4** - Основа     
+**Laravel** - Разрабатывал бэкенд апи (соц сеть, монолит)     
+**Vue. JS** - Разрабатывал фронт (соц сеть, с роутером)     
+## Базы данных:
+**MySQL** - Пэт проекты     
+**PostgeSQL** - Работаю на данный момент
+## Прочее:
+**Docker** - Для "контейнеризации"
+**Git** - Хранение кода
+**GithubAction** - Для ci/cd 
 
 ---
+## 🙋‍♂️ Контакты:
 
-## 🙋‍♂️ Как работать со мной:
-
-Для связи используйте мой email: [introvert696@yandex.ru](mailto:introvert696@yandex.ru).
+[![Static Badge](https://img.shields.io/badge/Email-black?style=flat&logo=maildotru)
+](mailto:introvert696@yandex.ru)           
+[![Static Badge](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)
+](https://t.me/introvert696)
