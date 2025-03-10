@@ -1,6 +1,5 @@
 
 # Добро пожаловать
-<img  src="https://media1.tenor.com/m/asJFBWDay04AAAAd/anime-aesthetic.gif" width="100%" />  </img>    
 
 Привет! Меня зовут **Иван**, я — PHP Backend Developer.
 ## О себе:
@@ -26,7 +25,7 @@
 **GithubAction** - Для ci/cd 
 
 ---
-## 🙋‍♂️ Контакты:
+## Контакты:
 
 [![Static Badge](https://img.shields.io/badge/Email-black?style=flat&logo=maildotru)
 ](mailto:introvert696@yandex.ru)           
