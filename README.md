@@ -27,8 +27,7 @@
 
 
 ## Прочее:
-- **Инструменты:** Docker, Git, GitHub Actions.
-- **Дополнительно:** Опыт работы с CI/CD, Linux, REST API.
+Docker, Git, GitHub Actions, Опыт работы с CI/CD, Linux, REST API.
 
 ---
 ## Контакты:
